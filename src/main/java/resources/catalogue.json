@@ -1,0 +1,34 @@
+[
+  {
+    "id" : "3f9b5c19-de9f-4af8-a765-f5c4e2e35092",
+    "product" : "26b1ac42-b251-4f4b-88d3-06aba35a6f6b",
+    "productName" : "Product 1",
+    "bomItems" : {
+      "b048a8f6-1962-42f1-8f52-0ba8f3aebd3b": "10",
+      "3be66a69-9e31-4ffc-aa33-0219610962b3": "30",
+      "01629cb8-c3e6-47ab-9c68-f665c3227744": "1"
+    }
+  },
+  {
+    "id" : "7f1950f4-5187-4fcf-9afb-5fc84dcb1b34",
+    "product" : "70ba2d97-5130-421b-85ee-36be5833f38e",
+    "productName" : "Product 2",
+    "bomItems" : {
+      "b048a8f6-1962-42f1-8f52-0ba8f3aebd3b" : "5",
+      "3be66a69-9e31-4ffc-aa33-0219610962b3" : "2",
+      "01629cb8-c3e6-47ab-9c68-f665c3227744" : "1",
+      "5ea5024e-7dc6-445c-ba62-dedc65d2e8cb" : "5",
+      "b84e3baa-2f31-48d8-aebc-93625fd441f1" : "1"
+    }
+  },
+  {
+    "id" : "9a74c617-9e08-46e7-a529-ad3e629b2874",
+    "product" : "5cdc6176-fff5-4afa-8a87-6eeab7aa4893",
+    "productName" : "Product 3",
+    "bomItems" : {
+      "01629cb8-c3e6-47ab-9c68-f665c3227744": "20",
+      "5ea5024e-7dc6-445c-ba62-dedc65d2e8cb": "20",
+      "b84e3baa-2f31-48d8-aebc-93625fd441f1": "5"
+    }
+  }
+]

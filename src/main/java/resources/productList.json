@@ -1,0 +1,17 @@
+[
+  {
+    "id" : "26b1ac42-b251-4f4b-88d3-06aba35a6f6b",
+    "name" : "Product 1",
+    "description" : "This is Product 1"
+  },
+  {
+    "id" : "70ba2d97-5130-421b-85ee-36be5833f38e",
+    "name" : "Product 2",
+    "description" : "This is Product 2"
+  },
+  {
+    "id" : "5cdc6176-fff5-4afa-8a87-6eeab7aa4893",
+    "name" : "Product 3",
+    "description" : "This is Product 3"
+  }
+]
